@@ -37,7 +37,7 @@ function LoginScreen(props) {
         </TouchableOpacity>
       </View>
       <Text style={styles.cadastreSe}>Cadastre-se</Text>
-      <Text style={styles.esqueciMinhaSenha}>Esqueci minha senha</Text>
+      <Text style={styles.esqueciMinhaSenha}>Esqueci minha senha.</Text>
     </View>
   );
 }
